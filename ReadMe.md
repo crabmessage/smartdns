@@ -204,8 +204,10 @@ vi /opt/etc/smartdns/smartdns.conf
 |server-tcp|上游TCP DNS|无|[IP][:port]，可重复| server-tcp 8.8.8.8:53
 |address|指定域名IP地址|无|address /domain/ip| address /www.example.com/1.2.3.4
 
-[捐助](#donate)
+[Donate](#Donate)
 ==============
+如果你觉得此项目对你有帮助，请捐助我们，以使项目能持续发展，更加完善。
+
 * PayPal  
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/PengNick/)
 
